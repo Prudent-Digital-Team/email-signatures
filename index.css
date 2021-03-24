@@ -1,0 +1,123 @@
+/***************************
+
+*****Homepage Styles****
+
+    | call me realice |
+
+***************************/
+
+
+/* General Styles */
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #F5FAFF;
+    font-family: 'Poppins', sans-serif;
+    color: #222831;
+}
+
+
+/* header styles */
+
+header {
+    width: 100%;
+    height: auto;
+    background: #2d3446;
+    padding: 0.1rem 6%;
+}
+
+header img {
+    display: block;
+    margin: 0;
+    padding: 0;
+    width: 100px;
+}
+
+
+/* body styles */
+
+main {
+    width: 100%;
+    margin: 2rem auto;
+    padding: 0.6rem 6%;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    margin: 1rem auto;
+    font-size: 1.5rem;
+}
+
+div {
+    margin-top: 3rem;
+}
+
+ul {
+    margin-left: 1rem;
+}
+
+li {
+    list-style: circle;
+    margin-top: 0.5rem;
+}
+
+li a {
+    text-decoration: none;
+}
+
+li a:hover {
+    text-decoration: underline;
+    color: #d93335;
+}
+
+/* footer styles */
+
+footer {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    padding: 2rem 1rem;
+}
+
+#footerContainer {
+    width: 100%;
+    padding: 0 6%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#copyright,
+#contact {
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+    font-size: 1.2rem;
+    line-height: 15px;
+}
+
+#img {
+    width: 3rem;
+    height: auto;
+    padding-right: 24px;
+}
+
+@media (max-width: 460px) {
+
+    #copyright,
+    #contact {
+        font-size: 0.7rem;
+    }
+
+    #img {
+        padding-right: 16px;
+    }
+}
