@@ -82,9 +82,9 @@ li a:hover {
 
 footer {
     width: 100%;
-    position: fixed;
+    position: sticky;
     bottom: 0;
-    padding: 2rem 1rem;
+    padding: 2rem 1rem 0.3rem;
 }
 
 #footerContainer {
