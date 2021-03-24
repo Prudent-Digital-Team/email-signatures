@@ -1,9 +1,9 @@
-accounts@pbgcare.co.uk
-admin@pbgdigital.co.uk
-admin@prudentbusinessgroup.org
+*accounts@pbgcare.co.uk
+*admin@pbgdigital.co.uk
+*admin@prudentbusinessgroup.org
 ana.mirabelafron@pbgcare.co.uk - Ana Mirabela Fron - Admin
-careers@pbgcare.co.uk
-careers@pbgdigital.co.uk
+*careers@pbgcare.co.uk
+*careers@pbgdigital.co.uk
 dan.bemsen@pbgdigital.co.uk - Junior Developer
 deborah.ogunnote@pbgdigital.co.uk - Deborah Ogunnote - Admin
 devopsengineer@pbgdigital.co.uk - your name 'Daniel Bemsen' for this
