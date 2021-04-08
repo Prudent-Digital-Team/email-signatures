@@ -1,0 +1,91 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+
+<HEAD>
+    <TITLE>Best Regards</TITLE>
+    <META content="text/html; charset=unicode" http-equiv=Content-Type>
+
+<BODY>
+    <P style="FONT-SIZE: 10pt; MARGIN-BOTTOM: 5pt; FONT-FAMILY: ARIAL; MARGIN-TOP: 0pt">
+    <TABLE style="width: 100%; PADDING:15PX;   BACKGROUND-COLOR: #F6F6F6;" cellSpacing=0 cellPadding=0 border=0>
+        <TBODY>
+
+            <TR>
+                <TD style="FONT-SIZE: 10pt; border-right: 1px solid #868484; FONT-FAMILY: Arial; WIDTH: 200px"
+                    rowSpan=2>
+                    <IMG border=0 src="https://pbgcare.co.uk/wp-content/uploads/2020/04/Domiciliary-care-logo.png">
+                </TD>
+
+                <TD style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; WIDTH: 280px; PADDING-LEFT: 20px" vAlign=top>
+                    <STRONG style="FONT-SIZE: 22pt; FONT-FAMILY: Arial; color: #d93535;">Julie Burtenshaw</STRONG><BR>
+                    <p style="margin: 0; color: #868484; font-size: 15px;">Registered Manager</p>
+                    <BR>
+
+                    <TABLE style="WIDTH: 250px; " cellSpacing=0 cellPadding=0 border=0>
+
+                        <TBODY>
+
+                            <TR>
+                                <TD style="FONT-SIZE: 9pt; FONT-FAMILY: Arial; WIDTH: 200px; COLOR: #000000; PADDING-BOTTOM:10PX;"
+                                    vAlign=top><IMG border=0 src="https://pbgcare.co.uk/email-img/Address-Icon.png"
+                                        align="center">&nbsp;&nbsp;<A
+                                        style="FONT-SIZE: 10pt; TEXT-DECORATION: none; COLOR: #868484;"
+                                        href="https://www.google.ng/maps/search/++G22+Prudent,+Crown+House,+Home+Gardens,+Dartford,+Kent+DA1+1DZ+London/@51.4460462,0.2180664,17z/data=!3m1!4b1">G22
+                                        G22 Prudent, Crown House, Home Gardens, Dartford - DA1 1DZ
+                                    </A>
+                                </TD>
+
+                            </TR>
+
+
+                            <TR>
+                                <TD style="FONT-SIZE: 9pt; FONT-FAMILY: Arial; WIDTH: 200px; COLOR: #000000; PADDING-BOTTOM:10PX; "
+                                    vAlign=top><IMG border=0 src="https://pbgcare.co.uk/email-img/Mail.png"
+                                        align="center">&nbsp;&nbsp;<A
+                                        style="FONT-SIZE: 10pt; TEXT-DECORATION: none; COLOR: #868484;"
+                                        href="mailto:reg.manager@pbgcare.co.uk">reg.manager@pbgcare.co.uk</A>
+                                </TD>
+                            </TR>
+
+                            <TR>
+                                <TD style="FONT-SIZE: 9pt; FONT-FAMILY: Arial; WIDTH: 200px; COLOR: #000000; PADDING-BOTTOM:10PX; "
+                                    vAlign=top><IMG border=0 src="https://pbgcare.co.uk/email-img/Phone.png"
+                                        align="center">&nbsp;&nbsp;<A
+                                        style="FONT-SIZE: 10pt; TEXT-DECORATION: none; COLOR: #868484;"
+                                        href="tel:+441322686765">+44 132 2686 765</A></TD>
+                            </TR>
+
+                            <TR>
+                                <TD style="FONT-SIZE: 9pt; FONT-FAMILY: Arial; WIDTH: 200px; COLOR: #000000; PADDING-BOTTOM:10PX; "
+                                    vAlign=top><IMG border=0 src="https://pbgcare.co.uk/email-img/Web-Icon.png"
+                                        align="center">&nbsp;&nbsp;<A
+                                        style="FONT-SIZE: 10pt; TEXT-DECORATION: none; COLOR: #868484;"
+                                        href="https://pbgcare.co.uk">www.pbgcare.co.uk</A></TD>
+                            </TR>
+
+                        </TBODY>
+                    </TABLE>
+                </TD>
+            </TR>
+            <TR>
+                <TD style="FONT-SIZE: 8pt; FONT-FAMILY: Arial; WIDTH: 280px; PADDING-LEFT: 20px" vAlign=bottom>
+                    <A href="https://www.facebook.com/PrudentDomCare"
+                        style="TEXT-DECORATION: none; COLOR: #868484;"><IMG align="center" border=0
+                            src="https://pbgcare.co.uk/email-img/facebook.png">&nbsp;PrudentDomCare</A> &nbsp;
+                    <A href="https://www.instagram.com/prudentdomiciliarycare/"
+                        style="TEXT-DECORATION: none; COLOR: #868484;"><IMG align="center" border=0
+                            src="https://pbgcare.co.uk/email-img/Instagram.png">&nbsp;prudentdomiciliarycare</A>
+                    &nbsp;
+                    <A href="https://www.linkedin.com/company/prudent-domiciliary-care/"
+                        style="TEXT-DECORATION: none; COLOR: #868484;"><IMG align="center" border=0 width="20px"
+                            height="20px"
+                            src="https://image.flaticon.com/icons/png/512/174/174857.png">&nbsp;prudent-domiciliary-care</A>
+                </TD>
+            </TR>
+        </TBODY>
+    </TABLE>
+    </P>
+
+</BODY>
+
+</HTML>
