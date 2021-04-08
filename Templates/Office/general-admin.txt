@@ -31,7 +31,7 @@
                                     vAlign=top><IMG border=0 src="https://pbgcare.co.uk/email-img/Address-Icon.png"
                                         align="center">&nbsp;&nbsp;<A
                                         style="FONT-SIZE: 10pt; TEXT-DECORATION: none; COLOR: #868484;"
-                                        href="https://www.google.ng/maps/search/++G22+Prudent,+Crown+House,+Home+Gardens,+Dartford,+Kent+DA1+1DZ+London/@51.4460462,0.2180664,17z/data=!3m1!4b1">
+                                        href="https://www.google.ng/maps/search/++G22+Prudent,+Crown+House,+Home+Gardens,+Dartford,+Kent+DA1+1DZ+London/@51.4460462,0.2180664,17z/data=!3m1!4b1">G22
                                         G22 Prudent, Crown House, Home Gardens, Dartford - DA1 1DZ
                                     </A>
                                 </TD>
