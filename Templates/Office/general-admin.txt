@@ -14,7 +14,7 @@
                 <TD style="FONT-SIZE: 10pt; border-right: 1px solid #868484; FONT-FAMILY: Arial; WIDTH: 200px"
                     rowSpan=2>
                     <!-- <IMG border=0 src="https://pbgcare.co.uk/email-img/Digital-Consulting-Logo.png"> -->
-                    <IMG border=0 width="500px" height="auto" src="https://i.ibb.co/9sgjWL1/PBG-Parent-Logo.jpg">
+                    <IMG border=0 width="500px" height="auto" src="https://prudentbusinessgroup.org/static/media/Frame.a91e4c45.svg">
 
                 </TD>
 
