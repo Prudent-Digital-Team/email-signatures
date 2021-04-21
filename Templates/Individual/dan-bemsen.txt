@@ -1,90 +1,92 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <HTML>
 
+<style>
+    * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+        font-family: 'Poppins', sans-serif;
+    }
+</style>
+
 <HEAD>
     <TITLE>Best Regards</TITLE>
     <META content="text/html; charset=unicode" http-equiv=Content-Type>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+</HEAD>
 
-<BODY>
-    <P style="FONT-SIZE: 10pt; MARGIN-BOTTOM: 5pt; FONT-FAMILY: ARIAL; MARGIN-TOP: 0pt">
-    <TABLE style="width: 100%; PADDING:15PX;   BACKGROUND-COLOR: #F6F6F6;" cellSpacing=0 cellPadding=0 border=0>
-        <TBODY>
+<BODY style="color: #868484;">
+    <table border="0" border-collapse: collapse; cellspacing="0" cellpadding="0"
+        style="width: 760px; height: auto; border-collapse: collapse;">
+        <tr>
+            <td style="width: 40%; padding: 25px; height: 100%; background-color: #47518b;">
+                <img src="https://i.postimg.cc/FH6PBRFn/digital.png" alt="Logo">
 
-            <TR>
-                <TD style="FONT-SIZE: 10pt; border-right: 1px solid #868484; FONT-FAMILY: Arial; WIDTH: 200px"
-                    rowSpan=2>
-                    <IMG border=0 src="https://pbgcare.co.uk/email-img/Digital-Consulting-Logo.png">
-                </TD>
+            </td>
+            <td align="top" style="width: 60%; padding: 25px; height: 100%; background-color: #F6F6F6;">
+                <h1 style="font-size: 32px; margin-bottom: 0; color: #d93535;">Daniel Bemsen</h1>
+                <p style="font-size: 17px; color: #868484;">Junior Developer</p>
+                <table style="margin-top: 16px;">
+                    <tr>
+                        <td style="width: 40%;">
+                            <p style="font-size: 13px; color: #868484;"><strong
+                                    style="font-size: 16px; color: #d93535;">T</strong>
 
-                <TD style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; WIDTH: 280px; PADDING-LEFT: 20px" vAlign=top>
-                    <STRONG style="FONT-SIZE: 22pt; FONT-FAMILY: Arial; color: #d93535;">Daniel Bemsen</STRONG><BR>
-                    <p style="margin: 0; color: #868484; font-size: 15px;">Junior Developer </p><BR>
+                                <a style="text-decoration: none; color: #868484;"" href=" tel:+2347037030402"> +234 703
+                                    7030 403</a>
+                            </p>
+                            <p style="font-size: 13px; margin-top: 16px; color: #868484;"><strong
+                                    style="font-size: 18px; color: #d93535;">W</strong>
+                                <a style="text-decoration: none; color: #868484;"" href=" https://pbgdigital.co.uk">
+                                    pbgdigital.co.uk</a>
 
-                    <TABLE style="WIDTH: 250px; " cellSpacing=0 cellPadding=0 border=0>
+                            </p>
+                        </td>
+                        <td style=" width: 60%;">
+                            <p style="font-size: 13px; color: #868484;"><strong
+                                    style="font-size: 16px; color: #d93535;">A</strong>
+                                <a style="text-decoration: none; color: #868484;"" href="
+                                    https://goo.gl/maps/dwPRMoEZgvmixpRU6">
+                                    G22
+                                    Prudent, Crown House, Home Gardens, Dartford - DA1 1DZ</a>
+                            </p>
+                            <p style="font-size: 13px; color: #868484;"><strong
+                                    style="font-size: 16px; color: #d93535;">E</strong>
+                                <a style="text-decoration: none; color: #868484;"
+                                    href="mailto:dan.bemsen@pbgdigital.co.uk">dan.bemsen@pbgdigital.co.uk</a>
+                            </p>
+                        </td>
 
-                        <TBODY>
+                    </tr>
+                </table>
 
-                            <TR>
-                                <TD style="FONT-SIZE: 9pt; FONT-FAMILY: Arial; WIDTH: 200px; COLOR: #000000; PADDING-BOTTOM:10PX;"
-                                    vAlign=top><IMG border=0 src="https://pbgcare.co.uk/email-img/Address-Icon.png"
-                                        align="center">&nbsp;&nbsp;<A
-                                        style="FONT-SIZE: 10pt; TEXT-DECORATION: none; COLOR: #868484;"
-                                        href="https://www.google.ng/maps/search/++G22+Prudent,+Crown+House,+Home+Gardens,+Dartford,+Kent+DA1+1DZ+London/@51.4460462,0.2180664,17z/data=!3m1!4b1">G22
-                                        G22 Prudent, Crown House, Home Gardens, Dartford - DA1 1DZ
-                                    </A>
-                                </TD>
+                <div style="width: 50%; margin: auto; margin-top: 25px;">
+                    <a href="https://www.facebook.com/pbgroupdigital/" style="text-decoration: none; ">
+                        <img src="https://i.postimg.cc/3R5t3cvX/facebook.png" alt="Facebook">
+                    </a>
+                    <a href="https://www.instagram.com/prudent_digital/"
+                        style="text-decoration: none; margin: 0 32px;  ">
+                        <img style="display: inline-block; margin-top: 18px;"
+                            src="https://i.postimg.cc/bv26chsY/instagram.png" alt="Instagram">
 
-                            </TR>
+                    </a>
+                    <a href="https://www.linkedin.com/company/prudent-business-group-ltd/"
+                        style="text-decoration: none; ">
+                        <img src="https://i.postimg.cc/fLcByfc6/linkedin.png" alt="linkedIn">
+                    </a>
 
+                </div>
+            </td>
 
-                            <TR>
-                                <TD style="FONT-SIZE: 9pt; FONT-FAMILY: Arial; WIDTH: 200px; COLOR: #000000; PADDING-BOTTOM:10PX; "
-                                    vAlign=top><IMG border=0 src="https://pbgcare.co.uk/email-img/Mail.png"
-                                        align="center">&nbsp;&nbsp;<A
-                                        style="FONT-SIZE: 10pt; TEXT-DECORATION: none; COLOR: #868484;"
-                                        href="mailto:dan.bemsen@pbgdigital.co.uk">dan.bemsen@pbgdigital.co.uk</A>
-                                </TD>
-                            </TR>
-
-                            <TR>
-                                <TD style="FONT-SIZE: 9pt; FONT-FAMILY: Arial; WIDTH: 200px; COLOR: #000000; PADDING-BOTTOM:10PX; "
-                                    vAlign=top><IMG border=0 src="https://pbgcare.co.uk/email-img/Phone.png"
-                                        align="center">&nbsp;&nbsp;<A
-                                        style="FONT-SIZE: 10pt; TEXT-DECORATION: none; COLOR: #868484;"
-                                        href="tel:+2347037030402">+234 7037030403, +44 132 2686 765</A></TD>
-                            </TR>
-
-                            <TR>
-                                <TD style="FONT-SIZE: 9pt; FONT-FAMILY: Arial; WIDTH: 200px; COLOR: #000000; PADDING-BOTTOM:10PX; "
-                                    vAlign=top><IMG border=0 src="https://pbgcare.co.uk/email-img/Web-Icon.png"
-                                        align="center">&nbsp;&nbsp;<A
-                                        style="FONT-SIZE: 10pt; TEXT-DECORATION: none; COLOR: #868484;"
-                                        href="https://pbgdigital.co.uk">www.pbgdigital.co.uk</A></TD>
-                            </TR>
-
-                        </TBODY>
-                    </TABLE>
-                </TD>
-            </TR>
-            <TR>
-                <TD style="FONT-SIZE: 8pt; FONT-FAMILY: Arial; WIDTH: 280px; PADDING-LEFT: 20px" vAlign=bottom>
-                    <A href="https://www.facebook.com/pbgroupdigital/"
-                        style="TEXT-DECORATION: none; COLOR: #868484;"><IMG align="center" border=0
-                            src="https://pbgcare.co.uk/email-img/facebook.png">&nbsp;pbgroupdigital</A> &nbsp;
-                    <A href="https://www.instagram.com/prudent_digital/"
-                        style="TEXT-DECORATION: none; COLOR: #868484;"><IMG align="center" border=0
-                            src="https://pbgcare.co.uk/email-img/Instagram.png">&nbsp;prudent_digital</A>
-                    &nbsp;
-                    <A href="https://www.linkedin.com/company/prudent-business-group-ltd/"
-                        style="TEXT-DECORATION: none; COLOR: #868484;"><IMG align="center" border=0width="20px"
-                            height="20px"
-                            src="https://image.flaticon.com/icons/png/512/174/174857.png">&nbsp;prudent-business-group-ltd</A>
-                </TD>
-            </TR>
-        </TBODY>
-    </TABLE>
-    </P>
+        </tr>
+    </table>
 
 </BODY>
 
 </HTML>
+
+<!-- grey: 868484 -->
+<!-- red: d93535 -->
+<!-- white: F6F6F6 -->
