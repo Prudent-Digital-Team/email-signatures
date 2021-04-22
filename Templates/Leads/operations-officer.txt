@@ -17,7 +17,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
 </HEAD>
 
-<BODY style="color: #868484;">
+<BODY style="color: #6e6c74;">
     <table border="0" border-collapse: collapse; cellspacing="0" cellpadding="0"
         style="width: 760px; height: auto; border-collapse: collapse;">
         <tr>
@@ -27,34 +27,34 @@
             </td>
             <td align="top" style="width: 60%; padding: 25px; height: 100%; background-color: #F6F6F6;">
                 <h1 style="font-size: 32px; margin-bottom: 0; color: #d93535;">Mehrdad Fathy</h1>
-                <p style="font-size: 17px; color: #868484;">Operations Officer</p>
+                <p style="font-size: 17px; color: #6e6c74;">Operations Officer</p>
                 <table style="margin-top: 16px;">
                     <tr>
                         <td style="width: 40%;">
-                            <p style="font-size: 13px; color: #868484;"><strong
+                            <p style="font-size: 13px; color: #6e6c74;"><strong
                                     style="font-size: 16px; color: #d93535;">T</strong>
 
-                                <a style="text-decoration: none; color: #868484;"" href=" tel:+447399610833"> +44 739
+                                <a style="text-decoration: none; color: #6e6c74;"" href=" tel:+447399610833"> +44 739
                                     9610 833</a>
                             </p>
-                            <p style="font-size: 13px; margin-top: 16px; color: #868484;"><strong
+                            <p style="font-size: 13px; margin-top: 16px; color: #6e6c74;"><strong
                                     style="font-size: 18px; color: #d93535;">W</strong>
-                                <a style="text-decoration: none; color: #868484;"" href=" https://pbgdigital.co.uk">
+                                <a style="text-decoration: none; color: #6e6c74;"" href=" https://pbgdigital.co.uk">
                                     pbgdigital.co.uk</a>
 
                             </p>
                         </td>
                         <td style=" width: 60%;">
-                            <p style="font-size: 13px; color: #868484;"><strong
+                            <p style="font-size: 13px; color: #6e6c74;"><strong
                                     style="font-size: 16px; color: #d93535;">A</strong>
-                                <a style="text-decoration: none; color: #868484;"" href="
+                                <a style="text-decoration: none; color: #6e6c74;"" href="
                                     https://goo.gl/maps/dwPRMoEZgvmixpRU6">
                                     G22
                                     Prudent, Crown House, Home Gardens, Dartford - DA1 1DZ</a>
                             </p>
-                            <p style="font-size: 13px; color: #868484;"><strong
+                            <p style="font-size: 13px; color: #6e6c74;"><strong
                                     style="font-size: 16px; color: #d93535;">E</strong>
-                                <a style="text-decoration: none; color: #868484;"
+                                <a style="text-decoration: none; color: #6e6c74;"
                                     href="mailto:operationsofficer@pbgdigital.co.uk">operationsofficer@pbgdigital.co.uk</a>
                             </p>
                         </td>
