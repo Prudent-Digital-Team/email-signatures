@@ -1,0 +1,130 @@
+<STRONG style="FONT-SIZE: 22pt; FONT-FAMILY: Arial; color: #d93535;">Daniel Bemsen</STRONG><BR>
+<p style="margin: 0; color: #03026d; font-weight: bold;font-size: 15px;">Junior Developer </p><BR>
+<a
+style="FONT-SIZE: 10pt; TEXT-DECORATION: none;  color: #03026d; font-weight: bolder;"
+href="mailto:seniordeveloper@pbgdigital.co.uk">
+dan.bemsen@pbgdigital.co.uk
+</a>
+
+<STRONG style="FONT-SIZE: 22pt; FONT-FAMILY: Arial; color: #d93535;">Mary-Anne Henn</STRONG><BR>
+<p style="margin: 0; color: #03026d; font-weight: bold;font-size: 15px;">UI / UX Designer</p><BR>
+<a
+style="FONT-SIZE: 10pt; TEXT-DECORATION: none;  color: #03026d; font-weight: bolder;"
+href="mailto:seniordeveloper@pbgdigital.co.uk">
+mary-anne@pbgdigital.co.uk
+</a>
+
+<STRONG style="FONT-SIZE: 22pt; FONT-FAMILY: Arial; color: #d93535;">Olaoluwa Davies</STRONG><BR>
+<p style="margin: 0; color: #03026d; font-weight: bold;font-size: 15px;">CEO </p><BR>
+<a
+style="FONT-SIZE: 10pt; TEXT-DECORATION: none;  color: #03026d; font-weight: bolder;"
+href="mailto:seniordeveloper@pbgdigital.co.uk">
+o.davies@pbgcare.co.uk
+</a>
+
+<STRONG style="FONT-SIZE: 22pt; FONT-FAMILY: Arial; color: #d93535;">Rhiannon James</STRONG><BR>
+<p style="margin: 0; color: #03026d; font-weight: bold;font-size: 15px;">Digital Strategist </p><BR>
+<a
+style="FONT-SIZE: 10pt; TEXT-DECORATION: none;  color: #03026d; font-weight: bolder;"
+href="mailto:seniordeveloper@pbgdigital.co.uk">
+digitalstrategist@pbgdigital.co.uk
+</a>
+
+
+CARE...
+<STRONG style="FONT-SIZE: 22pt; FONT-FAMILY: Arial; color: #d93535;">Ericka Murphy</STRONG><BR>
+<p style="margin: 0; color: #03026d; font-weight: bold;font-size: 15px;">General Secretary/Director </p><BR>
+<a
+    style="FONT-SIZE: 10pt; TEXT-DECORATION: none;  color: #03026d; font-weight: bolder;"
+    href="mailto:ericka.murphy@pbgcare.co.uk">
+    ericka.murphy@pbgcare.co.uk
+</a>
+
+
+<STRONG style="FONT-SIZE: 22pt; FONT-FAMILY: Arial; color: #d93535;"></STRONG><BR>
+<p style="margin: 0; color: #03026d; font-weight: bold;font-size: 15px;"> </p><BR>
+<a
+    style="FONT-SIZE: 10pt; TEXT-DECORATION: none;  color: #03026d; font-weight: bolder;"
+    href="mailto:info@pbgcare.co.uk">
+    info@pbgcare.co.uk
+</a>
+
+
+<STRONG style="FONT-SIZE: 22pt; FONT-FAMILY: Arial; color: #d93535;"></STRONG><BR>
+<p style="margin: 0; color: #03026d; font-weight: bold;font-size: 15px;"> </p><BR>
+<a
+    style="FONT-SIZE: 10pt; TEXT-DECORATION: none;  color: #03026d; font-weight: bolder;"
+    href="mailto:reg.manager@pbgcare.co.uk">
+    reg.manager@pbgcare.co.uk
+</a>
+
+
+<div class="default-style"> </div>
+<table border="0" style=" min-width: 600px; height: 300px; min-height: 300px;
+background-image: url('https://pbgcare.co.uk/email-img/r_bg.png'); 
+background-repeat: no-repeat; background-size: 600px 300px; padding: 0%">
+    <tbody>
+        <tr style="white-space: nowrap; height: fit-content;">
+            <td style="padding: 2px 17%">
+                <span style="display: block; font-size: 16px; color: #d93535;">Paul Ajadi</span> 
+                <span style="display: block; padding-bottom: 1.5%; margin-top: 1%; color: #03026d; font-weight: bold; font-size: 11px;">Senior Developer </span> 
+            </td>
+        </tr>
+        <tr style="margin: 0% auto;">
+            <td>
+                <span style="display: block;  padding: 0px 25% 0%"> 
+                    <a style="font-size: 10px; text-decoration: none; color: #03026d; 
+                    font-weight: bold;" href="mailto:seniordeveloper@pbgdigital.co.uk"> seniordeveloper@pbgdigital.co.uk 
+                    </a>
+                </span>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div style="padding-top: 15px;margin-left: 61%;">
+                    <a style="padding: 0px 5px; text-decoration: none; color: #868484;" href="https://www.facebook.com/pbgroupdigital/"> 
+                    <img src="https://pbgcare.co.uk/email-img/facebook.png" width="37px" height="37px" align="center" border="0" />
+                    </a> 
+                    <a style="padding: 0px 5px; text-decoration: none; color: #868484;" href="https://www.instagram.com/prudent_digital/"> 
+                    <img src="https://pbgcare.co.uk/email-img/Instagram.png" width="37px" height="37px" align="center" border="0" />
+                    </a> 
+                    <a style="padding: 0px 5px; text-decoration: none; color: #868484;" 
+                    href="https://www.linkedin.com/company/prudent-business-group-ltd/"> 
+                    <img src="https://pbgcare.co.uk/email-img/Linkedin.png" width="37px" height="37px" align="center" border="0" />
+                    </a> 
+                    <a style="padding: 0px 5px; text-decoration: none; color: #868484;" href="https://twitter.com/DigitalPrudent"> 
+                    <img src="https://pbgcare.co.uk/email-img/Twitter.png" width="37px" height="37px" align="center" border="0" />
+                    </a>
+                </div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+<div hidden style="max-width: 600px; max-height: 300px; background-image: url('https://pbgcare.co.uk/email-img/r_bg.png'); background-repeat: no-repeat; margin-top: 0%; padding: 2% 0% 3% 10%;">
+
+    <span style="display: block; font-size: 16px; color: #d93535;">Paul Ajadi</span> 
+    <span style="display: block; padding-bottom: 1.5%; margin-top: 1%; color: #03026d; 
+    font-weight: bold; font-size: 11px;">Senior Developer </span> <br />
+    <span style="display: block; margin-top: 4.5%; padding: 4% 10%;"> 
+        <a style="font-size: 10px; text-decoration: none; color: #03026d; 
+        font-weight: bold;" href="mailto:seniordeveloper@pbgdigital.co.uk"> seniordeveloper@pbgdigital.co.uk 
+        </a>
+    </span>
+    <div style="margin-left: 45%; margin-top: 10%;">
+        <a style="padding: 0px 7px; text-decoration: none; color: #868484;" href="https://www.facebook.com/pbgroupdigital/"> 
+        <img src="https://pbgcare.co.uk/email-img/facebook.png" width="37px" height="37px" align="center" border="0" />
+        </a> 
+        <a style="padding: 0px 7px; text-decoration: none; color: #868484;" href="https://www.instagram.com/prudent_digital/"> 
+        <img src="https://pbgcare.co.uk/email-img/Instagram.png" width="37px" height="37px" align="center" border="0" />
+        </a> 
+        <a style="padding: 0px 7px; text-decoration: none; color: #868484;" 
+        href="https://www.linkedin.com/company/prudent-business-group-ltd/"> 
+        <img src="https://pbgcare.co.uk/email-img/Linkedin.png" width="37px" height="37px" align="center" border="0" />
+        </a> 
+        <a style="padding: 0px 7px; text-decoration: none; color: #868484;" href="https://twitter.com/DigitalPrudent"> 
+        <img src="https://pbgcare.co.uk/email-img/Twitter.png" width="37px" height="37px" align="center" border="0" />
+        </a>
+    </div>
+</div>
