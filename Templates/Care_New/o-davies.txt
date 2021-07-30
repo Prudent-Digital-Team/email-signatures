@@ -1,0 +1,64 @@
+<a href="https://http://pbgcare.co.uk/">
+    <div class="default-style"> </div>
+    <table border="0" style=" min-width: 600px; height: 300px; min-height: 300px;
+    background-image: url('https://pbgcare.co.uk/email-img/care_hd_template.png'); 
+    background-repeat: no-repeat; background-size: 600px 300px; padding: 0%">
+        <tbody>
+            <tr style="white-space: nowrap; height: 63px;">
+                <td style="padding: 2px 0%">
+                    <img src="https://pbgcare.co.uk/email-img/olaoluwa-name.png" align="center" border="0" />
+                </td>
+            </tr>
+            <tr style="height:40px; margin: 0% auto;">
+                <td>
+                    <img src="https://pbgcare.co.uk/email-img/space.png" height="1px" align="center" border="0" />
+                </td>
+            </tr>
+            <tr style="height:20px; margin: 0% auto;">
+                <td>
+                    <img src="https://pbgcare.co.uk/email-img/olaoluwa-care-email.png" style="margin-top: 0px;" align="center" border="0" />
+                </td>
+            </tr>
+            <tr style="height:10px; margin: 0% auto;">
+                <td>
+                   
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <br>
+                    <div style="margin-top: 0;margin-left: 61%;">
+                        <a style="padding: 0px 5px; text-decoration: none; color: #868484;" href="https://www.facebook.com/pbgroupdigital/"> 
+                        <img src="https://pbgcare.co.uk/email-img/facebook.png" width="37.1348px" height="37px" align="center" border="0" />
+                        </a> 
+                        <a style="padding: 0px 5px; text-decoration: none; color: #868484;" href="https://www.instagram.com/prudent_digital/"> 
+                        <img src="https://pbgcare.co.uk/email-img/Instagram.png" width="37.1348px" height="37px" align="center" border="0" />
+                        </a> 
+                        <a style="padding: 0px 5px; text-decoration: none; color: #868484;" 
+                        href="https://www.linkedin.com/company/prudent-business-group-ltd/"> 
+                        <img src="https://pbgcare.co.uk/email-img/Linkedin.png" width="37.1348px" height="37px" align="center" border="0" />
+                        </a> 
+                        <a style="padding: 0px 5px; text-decoration: none; color: #868484;" href="https://twitter.com/DigitalPrudent"> 
+                        <img src="https://pbgcare.co.uk/email-img/Twitter.png" width="37.1348px" height="37px" align="center" border="0" />
+                        </a>
+                    </div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    </a>
+    <div style="width: 600px;">
+        This email has originated from the UK company of Prudent Business Group Limited, 
+        G22 - G23, Crown House, Homes Garden, Dartford Da1 1dz. Registered Office G22 - G23, 
+        Crown House, Homes Garden, Dartford Da1 1dz Registered in England No 11491174. 
+        The information in this e-mail and any attachments is confidential and may be legally 
+        privileged. It is intended solely for the addressee. Access to this e-mail by anyone 
+        else is unauthorised. If an addressing or transmission error has misdirected this e-mail, 
+        please notify the author by replying to this e-mail. If you are not the intended recipient 
+        you must not use, disclose, distribute, copy, print, or rely on this e-mail. 
+        VIRUS WARNING The contents of any attachment to this email may contain software viruses that 
+        could damage your own computer system. While Prudent Business Group Limited has taken 
+        reasonable precautions to minimize this risk, it cannot accept liability for any damage that 
+        you suffer as a result of software viruses. You should carry out your own virus checks before 
+        opening any attachment.
+    </div>

@@ -1,6 +1,7 @@
+<a href="https://http://pbgcare.co.uk/">
 <div class="default-style"> </div>
 <table border="0" style=" min-width: 600px; height: 300px; min-height: 300px;
-background-image: url('https://pbgcare.co.uk/email-img/digital_template.png'); 
+background-image: url('https://pbgcare.co.uk/email-img/care_hd_template.png'); 
 background-repeat: no-repeat; background-size: 600px 300px; padding: 0%">
     <tbody>
         <tr style="white-space: nowrap; height: 63px;">
@@ -45,6 +46,7 @@ background-repeat: no-repeat; background-size: 600px 300px; padding: 0%">
         </tr>
     </tbody>
 </table>
+</a>
 <div style="width: 600px;">
     This email has originated from the UK company of Prudent Business Group Limited, 
     G22 - G23, Crown House, Homes Garden, Dartford Da1 1dz. Registered Office G22 - G23, 
