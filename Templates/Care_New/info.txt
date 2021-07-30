@@ -25,19 +25,20 @@ background-repeat: no-repeat; background-size: 600px 300px; padding: 0%">
         </tr>
         <tr>
             <td>
+                <br>
                 <div style="margin-top: 0;margin-left: 61%;">
                     <a style="padding: 0px 5px; text-decoration: none; color: #868484;" href="https://www.facebook.com/pbgroupdigital/"> 
-                    <img src="https://pbgcare.co.uk/email-img/facebook.png" width="37px" height="37px" align="center" border="0" />
+                    <img src="https://pbgcare.co.uk/email-img/facebook.png" width="37.1348px" height="37px" align="center" border="0" />
                     </a> 
                     <a style="padding: 0px 5px; text-decoration: none; color: #868484;" href="https://www.instagram.com/prudent_digital/"> 
-                    <img src="https://pbgcare.co.uk/email-img/Instagram.png" width="37px" height="37px" align="center" border="0" />
+                    <img src="https://pbgcare.co.uk/email-img/Instagram.png" width="37.1348px" height="37px" align="center" border="0" />
                     </a> 
                     <a style="padding: 0px 5px; text-decoration: none; color: #868484;" 
                     href="https://www.linkedin.com/company/prudent-business-group-ltd/"> 
-                    <img src="https://pbgcare.co.uk/email-img/Linkedin.png" width="37px" height="37px" align="center" border="0" />
+                    <img src="https://pbgcare.co.uk/email-img/Linkedin.png" width="37.1348px" height="37px" align="center" border="0" />
                     </a> 
                     <a style="padding: 0px 5px; text-decoration: none; color: #868484;" href="https://twitter.com/DigitalPrudent"> 
-                    <img src="https://pbgcare.co.uk/email-img/Twitter.png" width="37px" height="37px" align="center" border="0" />
+                    <img src="https://pbgcare.co.uk/email-img/Twitter.png" width="37.1348px" height="37px" align="center" border="0" />
                     </a>
                 </div>
             </td>
