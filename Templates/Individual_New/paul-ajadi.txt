@@ -1,7 +1,7 @@
 
 <div class="default-style"> </div>
 <table border="0" style=" min-width: 600px; height: 300px; min-height: 300px;
-background-image: url('https://pbgcare.co.uk/email-img/digital_template.png'); 
+background-image: url('https://pbgcare.co.uk/email-img/digital_template_1.png'); 
 background-repeat: no-repeat; background-size: 600px 300px; padding: 0%">
     <col width="300px">
 	<col width="300px">
@@ -11,9 +11,14 @@ background-repeat: no-repeat; background-size: 600px 300px; padding: 0%">
 		</td>
 	</tr>
 	<tr valign="center">
-		<td width="50%" height="95px" style="padding-bottom: 46px;">
-            <a href="mailto:seniordeveloper@pbgdigital.co.uk">
+		<td width="50%" height="95px" style="padding-bottom: 20px;">
+            <a href="mailto:mary-anne@pbgdigital.co.uk">
                 <img width="300px" src="https://pbgcare.co.uk/email-img/paul-email.png" align="center" border="0" />
+            </a>
+            <br>
+
+            <a href="https://pbgdigital.co.uk">
+                <img width="300px" src="https://pbgcare.co.uk/email-img/website-link.png" align="center" border="0" />
             </a>
 		</td>
 		<td width="50%">
@@ -29,7 +34,7 @@ background-repeat: no-repeat; background-size: 600px 300px; padding: 0%">
 			</p>
 		</td>
 		<td width="50%">
-			<div style="margin-top: 0px;margin-left: 20%;">
+			<div style="margin-top: 0px;margin-left: 60px;">
                 <a style="padding: 0px 5px; text-decoration: none; color: #868484;" href="https://www.facebook.com/pbgroupdigital/"> 
                 <img src="https://pbgcare.co.uk/email-img/facebook.png" width="37.1348px" height="37px" align="center" border="0" />
                 </a> 
