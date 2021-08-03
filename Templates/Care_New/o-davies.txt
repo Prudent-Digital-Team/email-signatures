@@ -7,7 +7,7 @@ background-repeat: no-repeat; background-size: 600px 300px; padding: 0%">
 	<col width="300px">
 	<tr>
 		<td colspan="2" width="100%" height="65px" valign="top">
-			<img src="https://pbgcare.co.uk/email-img/ericka-name.png" align="bottom" border="0" />
+			<img src="https://pbgcare.co.uk/email-img/olaoluwa-name.png" align="bottom" border="0" />
 		</td>
 	</tr>
 	<tr valign="center">
